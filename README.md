@@ -145,8 +145,7 @@ Help us grow the BioVault! If you have clean, accurate biology notes, memory tip
 ## 📞 Contact
 
 Have questions or feedback?  
-📧 Email us: **biovault@schoolhub.edu**  
-📌 Or open an [issue](https://github.com/your-repo/issues) on this repo!
+📧 Email us: **eugenics.erudite@gmail.com**  
 
 ---
 
