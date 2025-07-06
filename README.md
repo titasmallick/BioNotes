@@ -1,122 +1,58 @@
 # 🧬 AutoNotes: Class 5–12 Biology Notes & Study Guide
 
-Welcome to **BioVault**, your one-stop, syllabus-friendly repository of biology notes, diagrams, and study suggestions for students of **Class 5 to 12**! Whether you're dissecting your first leaf 🍃 or diving into DNA 🧬, this repo is designed to make biology *fun, clear, and exam-ready*.
+Welcome to **AutoNotes**, your one-stop, syllabus-friendly repository of biology notes, diagrams, and study suggestions for students of **Class 5 to 12**! Whether you're dissecting your first leaf 🍃 or diving into DNA 🧬, this repo is designed to make biology *fun, clear, and exam-ready*.
 
 ---
 
 ## 📚 Contents
 ```
-biology-notes/
-├── class-5/
-│ └── notes.md
-├── class-6/
-│ └── notes.md
-├── class-7/
-│ └── notes.md
-├── class-8/
-│ └── notes.md
-├── class-9/
-│ └── notes.md
-├── class-10/
-│ └── notes.md
-├── class-11/
-│ ├── botany.md
-│ └── zoology.md
-└── class-12/
-├── botany.md
-└── zoology.md
+AutoNotes/
+├── 5/
+├── 6/
+├── 7/
+├── 8/
+├── 9/
+├── 10/
+├── 11/
+├── 12/
+├── Numerical Problems/
+├── Question Guide/
+└── Suggestions/
 ```
-
----
-
-## ✨ Features
-
-- 📒 Easy-to-understand handwritten-style notes (digitally typed)
-- 🧠 Concept summaries for quick revision
-- 🧪 Diagrams and flowcharts for visual learning
-- 📌 Study tips, tricks, and memory hacks
-- 📆 Exam preparation strategies per class level
-- 🧾 Curriculum-mapped (NCERT & major boards aligned)
 
 ---
 
 ## 🎓 Class-wise Breakdown
 
-### Class 5–8 (Middle School Basics)
+### Class 5-12
 
-> 📌 Focus: Observation, classification, and introduction to life sciences  
-
-**✔️ Topics Include:**
-- Plants & Animals
-- Human body systems
-- Environment & Ecosystem
-- Health & Hygiene
-- Food & Nutrition
-
-**🧩 Suggestions:**
-- Use **colorful visuals** to remember plant/animal parts  
-- Practice by drawing and labeling diagrams  
-- Link topics with real life — digestion during lunch, photosynthesis while looking at a tree 🌳
-
----
-
-### Class 9–10 (Foundational Sciences)
-
-> 📌 Focus: Structure and function of living organisms  
+> 📌 Focus: Comprehensive biology notes for all levels.
 
 **✔️ Topics Include:**
-- Cell structure and functions
-- Tissues
-- Life Processes
-- Reproduction
-- Heredity & Evolution
-- Health & Diseases
-
-**📚 Suggestions:**
-- Understand instead of memorizing—biology *isn't just cramming!*  
-- Use mnemonic devices like **MRS GREN** (Movement, Respiration, Sensitivity...)  
-- Make charts & flow diagrams for processes like digestion, respiration, etc.  
-- Practice past year questions regularly  
-
----
-
-### Class 11–12 (Advanced / NEET Foundation)
-
-> 📌 Focus: Deep dive into Botany & Zoology, preparing for higher studies  
-
-**✔️ Topics Include:**
-
-**Class 11:**
-- Plant Physiology
-- Morphology & Anatomy
 - Cell Biology
-- Animal Tissues & Structural Organization
-- Biomolecules
-- Human Physiology
-
-**Class 12:**
-- Genetics & Evolution
-- Biotechnology
+- Plant and Animal Physiology
+- Genetics and Evolution
 - Ecology
-- Human Health & Disease
-- Reproduction in Organisms
-- Strategies for Enhancement in Food Production
+- Human Health and Diseases
+- Reproduction
+- Biotechnology
 
 **🎯 Suggestions:**
-- Make flashcards for definitions and terms  
-- Create mind maps after each chapter  
-- Solve assertion-reason, case-based, and diagram-based questions  
-- Focus on NCERT line-by-line — it’s NEET gold!  
-- Revise weekly – trust your future self will thank you later 😉
+- Use the notes for quick revision and in-depth study.
+- Refer to the "Numerical Problems" for practice.
+- Check the "Question Guide" and "Suggestions" for exam preparation.
 
 ---
 
 ## 🔧 How to Use
 
-1. **Browse the folders** by class level
-2. Open the `.md` files to read the notes (or download PDFs, if available)
-3. Follow the study tips in each section
-4. 🪄 Bookmark or star the repo to return to it anytime!
+Browse the folders by class level (e.g., `5/`, `6/`, `10/`, `11/`, `12/`) to find notes. Numerical problems, question guides, and exam suggestions are available in their respective folders.
+
+---
+
+## 🌐 Live Demo
+
+You can view these notes online at: [https://noteview.vercel.app/](https://noteview.vercel.app/)
 
 ---
 
@@ -142,6 +78,74 @@ Help us grow the BioVault! If you have clean, accurate biology notes, memory tip
 
 ---
 
+## 🧑‍💻 About the Author
+
+AutoNotes is created and maintained by **Titas Mallick**.
+
+**Visionary Educator**
+Seeking an opportunity to use my knowledge and talent to educate children and prepare them for today's world. I aim to encourage and enable students to develop inquiring minds and curiosity about science and nature. A passionate educator with a strong teaching aptitude. Possesses thorough knowledge of the subject and its background. Fluent in spoken English with a command over comprehension. Proficient in handling computer-aided tools and effective classroom management.
+
+**Professional Efficiencies**
+- Languages Known: Bengali, English, Hindi
+- Nationality: Indian
+- Date of Birth: 2nd April 1996
+- Gender: Male
+- Address: Konnagar, Hooghly, PIN: 712235
+- Phone: +91 9123774239
+- Email: titasmallick@gmail.com
+
+**Education**
+- CTET qualified (CBSE) (2023)
+- B.Ed. from BSAEU (2023)
+- M.Sc. in Botany from University of Calcutta (2019)
+- B.Sc. from Raja Peary Mohan College (2017)
+- Higher Secondary Education from West Bengal Board (2014)
+- Secondary Education from West Bengal Board (2012)
+
+**Work Experience**
+- Over 5 years of experience in private tuition for VI to XII Biology and Botany for degree courses (Pass and Honors Courses).
+- Well aware of syllabus and patterns for different exams.
+
+**Extra-curricular**
+- Avid in computer, Graphics, and Web Design, NextJs
+- Certified in Digital Marketing (Google)
+- Final Research on "Evaluation of Anti-HIV Potential in Selected Medicinal Plants" for the award of the Master of Science
+- Participated in multiple workshops and seminars
+
+**Hobbies**
+- Teaching, Web Development, and Graphic and Web Designing
+
+**Current Role**
+- Currently working as a biology teacher at Pearls of God School (ICSE, ISC) since 2022.
+- Also working as a biology faculty for the educational institute Eugenics Erudite since 2020.
+- Qualified CTET with above 62% marks and B.Ed.
+
+**Titas Mallick - Biology Teacher**
+- Teaching Experience: 10 years (School: 5 years)
+- Expertise: CBSE, ICSE, ISC (School), CBSE, ISC, ICSE, WB, KV (Private)
+- Lab Facilities: Available
+- Call / WhatsApp: +91 9123774239
+- Mail: eugenicserudite@gmail.com
+- Location: Konnagar - near Konnagar High School, Hindmotor - near Pearls Of God School, Serampore, Uttarpara, Remote
+- Availability: Moderate
+
+**Qualifications**
+- M.Sc in Botany (Expertise in Industrial Microbiology & Applied Virology - HIV) - Ballygunge Science College, University of Calcutta
+- B.Ed in Life Sciences
+- CTET Qualified
+- Active part of the CISE, ICSE and ISC exam procedures
+
+**Teaching Batches**
+- For Class IX to XII
+- Teaches Botany Major & Microbiology and Zoology Minor students
+- Flexible batch options available
+- Tuition Fees: Low
+
+**Current Position**
+- Biology Teacher at Pearls of God School (ICSE, ISC), Hindmotor
+
+---
+
 ## 📞 Contact
 
 Have questions or feedback?  
@@ -158,4 +162,3 @@ Feel free to use, remix, and share — with proper credit.
 
 > _"Biology gives you a brain. Life turns it into a mind."_ – Jeffrey Eugenides  
 Stay curious. Stay kind. Keep learning! 🌿✨
-
