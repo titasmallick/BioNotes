@@ -118,7 +118,44 @@ While Angiotensin II provides the immediate pressor effect, Aldosterone and ADH 
 
 ---
 
-## VI. Regulation and Negative Feedback
+## VI. The Counter-Current Mechanism: Concentrating the Urine
+
+The ability of ADH to promote significant water reabsorption from the collecting duct is entirely dependent on the **hypertonic interstitial fluid** of the renal medulla. This steep osmotic gradient, increasing from the cortex (isotonic, ~300 mOsm/L) to the deep medulla (~1200 mOsm/L), is established and maintained by the **counter-current mechanism**. This mechanism involves two key components: the Loop of Henle and the Vasa Recta.
+
+### 1. The Counter-Current Multiplier: The Loop of Henle
+
+The Loop of Henle actively *multiplies* the concentration of the medullary interstitium.
+
+*   **Descending Limb:**
+    *   **Permeability:** Freely permeable to **water**, but impermeable to salts (like NaCl).
+    *   **Action:** As the filtrate travels down the descending limb, it moves into the increasingly salty medulla. Water passively flows out of the tubule via osmosis into the interstitium.
+    *   **Result:** The filtrate inside the tubule becomes progressively more concentrated, reaching its peak concentration at the hairpin turn of the loop (~1200 mOsm/L).
+
+*   **Ascending Limb:**
+    *   **Permeability:** Impermeable to **water**, but actively transports salts (**NaCl**) out.
+    *   **Action:** As the now-concentrated filtrate moves up the ascending limb, Na+, K+, and Cl- are actively pumped out of the filtrate into the interstitial fluid.
+    *   **Result:** This active salt removal makes the medullary interstitium salty (hypertonic) and makes the filtrate inside the tubule progressively more dilute (hypotonic). By the time the filtrate reaches the distal convoluted tubule, it is actually more dilute than blood plasma (~100 mOsm/L).
+
+**The "Multiplier" Effect:** The key is that the salt pumped out by the ascending limb makes the interstitium salty, which in turn draws water out of the descending limb, concentrating the fluid that will *then* enter the ascending limb. This positive feedback loop creates the powerful osmotic gradient.
+
+### 2. The Counter-Current Exchanger: The Vasa Recta
+
+The **Vasa Recta** are the long, hairpin-shaped blood vessels that surround the Loop of Henle. Their job is to supply the medulla with blood without washing out the precious salt gradient created by the Loop of Henle.
+
+*   **Descending Portion:** As the vasa recta descends into the medulla, it loses water and gains salt, just like the filtrate in the descending limb.
+*   **Ascending Portion:** As it ascends back towards the cortex, the blood is now saltier than the surrounding interstitium. It therefore picks up the water that left the descending limb of the Loop of Henle and loses the salt it picked up on the way down.
+
+**The "Exchanger" Effect:** The vasa recta acts as a passive exchanger. It removes the reabsorbed water but leaves the salt behind, thus preserving the medullary gradient that is essential for the final step of urine concentration.
+
+### 3. The End Result: Facilitating RAAS/ADH Action
+
+The RAAS pathway culminates in the release of ADH. ADH makes the collecting duct permeable to water. Because the collecting duct passes through the hypertonic medulla created by the counter-current mechanism, there is a powerful osmotic force pulling water out of the filtrate and back into the body.
+
+**Without the counter-current mechanism, ADH would be useless**, as there would be no osmotic gradient to drive water reabsorption. This is how the kidney, under the direction of RAAS, can produce a small volume of highly concentrated urine to conserve water and increase blood volume and pressure.
+
+---
+
+## VII. Regulation and Negative Feedback
 
 The RAAS pathway is tightly regulated to prevent dangerous hypertension.
 
@@ -161,11 +198,16 @@ As detailed in the flowchart, the system is turned ON by:
 
 - **High Blood Pressure:** Directly inhibits renin release from the JG cells.
 - **Angiotensin II:** Provides short-loop negative feedback by inhibiting further renin release.
-- **Atrial Natriuretic Peptide (ANP):** This is the primary counter-regulatory system. When the atria of the heart are stretched by high blood volume, they release ANP, which actively works to lower blood pressure by causing vasodilation and promoting salt and water excretion (natriuresis).
+- **Atrial Natriuretic Peptide (ANP):** This is the primary physiological antagonist to the RAAS. Released by atrial myocytes in response to being stretched by high blood volume, ANP acts to lower blood pressure and volume through several mechanisms:
+    1.  **Vasodilation:** It directly relaxes vascular smooth muscle, particularly in the afferent arterioles, while constricting the efferent arterioles. This increases GFR.
+    2.  **Inhibition of Renin:** It directly inhibits renin secretion from the juxtaglomerular cells, suppressing the entire RAAS cascade at its source.
+    3.  **Inhibition of Aldosterone:** It acts on the adrenal gland to inhibit aldosterone secretion, reducing sodium reabsorption in the distal tubules and collecting ducts.
+    4.  **Decreased Sodium Reabsorption:** It directly reduces sodium reabsorption in the collecting ducts.
+- **The combined effect is natriuresis (excretion of sodium) and diuresis (excretion of water), which reduces blood volume and pressure, thus counteracting the effects of RAAS.**
 
 ---
 
-## VII. Pharmacological Intervention: Targeting the RAAS
+## VIII. Pharmacological Intervention: Targeting the RAAS
 
 The central role of RAAS in hypertension makes it a prime target for medication.
 
@@ -178,7 +220,7 @@ The central role of RAAS in hypertension makes it a prime target for medication.
 
 ---
 
-## VIII. Clinical Significance and Pathophysiology: Where RAAS Matters
+## IX. Clinical Significance and Pathophysiology: Where RAAS Matters
 
 The RAAS is a double-edged sword: essential for survival in acute situations (e.g., hemorrhage), but its chronic overactivation contributes to a wide range of cardiovascular and renal diseases.
 
@@ -206,3 +248,22 @@ The RAAS is a double-edged sword: essential for survival in acute situations (e.
 - **Cirrhosis with Ascites:** In severe liver disease, reduced effective circulating volume leads to RAAS activation, contributing to fluid retention and ascites.
 
 In summary, understanding the RAAS pathway is crucial not only for comprehending fundamental cardiovascular and renal physiology but also for appreciating the rationale behind many life-saving medications used in clinical practice.
+
+---
+
+## X. The Balancing Act: RAAS vs. ANP - A Homeostatic Tug-of-War
+
+The body's ability to maintain blood pressure within a narrow, optimal range relies on the dynamic interplay between the RAAS (the pressure-raising system) and the ANP system (the pressure-lowering system).
+
+| Feature | **Renin-Angiotensin-Aldosterone System (RAAS)** | **Atrial Natriuretic Peptide (ANP) System** |
+| :--- | :--- | :--- |
+| **Primary Trigger** | **Low Blood Pressure**, Low Blood Volume, Low NaCl, Sympathetic stimulation. | **High Blood Pressure**, High Blood Volume (atrial stretch). |
+| **Key Effector(s)** | Angiotensin II, Aldosterone, ADH | Atrial Natriuretic Peptide (ANP) |
+| **Vascular Effect** | Potent **Vasoconstriction** (raises systemic resistance). | **Vasodilation** (lowers systemic resistance). |
+| **Effect on Renal System** | **Na+ and Water Reabsorption** (conserves volume). | **Na+ and Water Excretion** (natriuresis, diuresis). |
+| **Effect on GFR** | Constricts efferent arteriole to *maintain* GFR. | Dilates afferent arteriole to *increase* GFR. |
+| **Effect on Renin** | Is the *result* of renin release. | **Inhibits** renin release. |
+| **Effect on Aldosterone**| **Stimulates** aldosterone release. | **Inhibits** aldosterone release. |
+| **End Result** | **INCREASES Blood Pressure & Blood Volume** | **DECREASES Blood Pressure & Blood Volume** |
+
+This constant "tug-of-war" ensures that blood pressure does not fall too low, compromising tissue perfusion, nor rise too high, damaging blood vessels and organs. When RAAS is activated and successfully raises blood pressure, that very increase in pressure and volume stretches the heart's atria, triggering the release of ANP to act as a brake, preventing overcorrection. This elegant feedback loop is central to cardiovascular homeostasis.
