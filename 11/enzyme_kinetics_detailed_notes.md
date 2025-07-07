@@ -42,11 +42,28 @@ By studying the *speed* (kinetics) of our enzyme factory, we can understand how 
 
 ## 2. The Core Idea: The Enzyme-Substrate Handshake
 
-Before a worker can make a product, they must first pick up the raw material. This is the central idea of enzyme action.
+Before a worker can make a product, they must first pick up the raw material. This is the central idea of enzyme action. To discuss the speed of this process, we introduce **rate constants** (k).
 
 `E + S  ⇌  ES  →  E + P`
 
-Let's break this down:
+Let's break this down with the rate constants included:
+
+1.  **The Binding Step:** `E + S → ES`
+    *   This is the forward reaction where the enzyme and substrate bind.
+    *   The speed of this step is determined by the **rate constant `k₁`**.
+
+2.  **The Dissociation Step:** `ES → E + S`
+    *   This is the reverse reaction where the ES complex falls apart without the reaction happening.
+    *   The speed of this step is determined by the **rate constant `k₋₁`** (read as "k-minus-one").
+
+3.  **The Catalytic Step:** `ES → E + P`
+    *   This is the step where the substrate is converted to product.
+    *   The speed of this step is determined by the **rate constant `k₂`** (also called `k_cat` because it represents the catalysis).
+
+So, the full picture is:
+`E + S --(k₁)--> ES --(k₂)--> E + P`
+`<--(k₋₁)---`
+
 *   `E + S`: The free worker (Enzyme) and the raw material (Substrate) are separate.
 *   `⇌ ES`: The worker binds to the material, forming an **Enzyme-Substrate (ES) complex**. This is like a handshake. It's reversible (`⇌`), meaning the worker might drop the material without changing it.
 *   `→ E + P`: The worker transforms the material into the product (`P`) and then lets go, becoming free to grab another piece of raw material. This step is the actual work being done and is usually the slowest part of the process (the **rate-limiting step**).
