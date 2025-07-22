@@ -1,4 +1,4 @@
-﻿Pearls Of God School
+﻿
 
 Syllabus
 
@@ -105,7 +105,7 @@ Suggested Reading:
 
 *(Signature of subject coordinator)*
 
-Pearls Of God School
+
 
 Syllabus
 
