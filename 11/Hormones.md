@@ -1,0 +1,64 @@
+﻿![Eu-icon-01](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAipJREFUSIntlT1LY0EUhp9J7ly55prCJkUgksoPsNFSLPwDWqQMgj8hZWrBNkUqSztJ4QcIoo3/wKSKhUQSiYUBRXIvJN65uRyLxSxudrMuu1abF6YYZs485z2cmVFACFh8nSLAin0h4IMmoAloApqA/gfQ2Fd7ZmaGer2O4ziICFEUAaCUIgxDtra2qFarfw96fX2lUChwcHBAo9Hg+PiYIAiYm5tjZ2cHrTXxeByl1DCR9zlAFEWIyO9BYRhSq9Xo9/vU63XK5TKe55HJZNBa4/s+uVyOdDpNq9Xi/Pyc9fV1lpeX8X2fk5MTnp+fv58HyK9GNpuVTqcjZ2dnsrq6KgsLCzI/Py+AuK4rpVJJPM+Ty8tLSSaTsr29LY+Pj9Jut2VpaUmAwR+But2uNJtNaTQacnt7K0opUUrJysqKtFqtIWhqakqurq5GQJ/+wqvVKvv7+/T7fURkWPsgCBgMhkkTBAHGmJH4T4MeHh64uLjA87zPhnzQ2HuklEJrjVIKy7JwHIfp6WmSyST39/fkcjmMMRhjmJ2dxXVdXNclkUiglPrQgWMd2bZNsVgkkUiwsbHB6ekpg8EAy7JIpVI4jsPT0xO1Wo3NzU0ODw+JoojFxUVs2yafz7O3t4fv++NBsViMeDzO0dHRyNrNzQ13d3e8vLywu7uL53mk02mur6+pVCqsra1hjEFr/a06gBnn7N36z/TeEABaa2zbptfr/bgnAvQ4Q/9Ub0fgEtIXTtLPAAAAAElFTkSuQmCC)***NOTE , HORMONES , TITAS MALLICK , +91 9123774239***
+
+![EuMainLogo](data:image/png;base64,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)
+
+***www.eugenicserudite.xyz***
+
+**HORMONES**
+
+|**Hormone**|**Origin**|**Hyposecretion**|**Hypersecretion**|
+| :-: | :-: | :-: | :-: |
+|Insulin|Pancreas|Diabetes mellitus type 1|Hyperinsulinism|
+|Growth Hormone|Pituitary gland|Pituitary dwarfism|Acromegaly|
+|Thyroxine|Thyroid gland|Hypothyroidism|Hyperthyroidism|
+|Cortisol|Adrenal glands|Addison's disease|Cushing's syndrome|
+|Adrenaline|Adrenal glands|Adrenal insufficiency|Pheochromocytoma|
+|Estrogen|Ovaries|Primary ovarian insufficiency (POI)|Estrogen dominance|
+|Testosterone|Testes|Hypogonadism|Testicular tumors (Leydig cell tumors)|
+|Progesterone|Ovaries|Progesterone deficiency|Hyperprogesteronism (rare)|
+|Parathyroid hormone|Parathyroid glands|Hypoparathyroidism|Hyperparathyroidism|
+|Melatonin|Pineal gland|Seasonal affective disorder (SAD)|Circadian rhythm disorders|
+|Oxytocin|Hypothalamus, posterior pituitary gland|Inadequate uterine contractions during labor (inadequate labor progression)|Excessive uterine contractions during labor (uterine hyperstimulation)|
+|Aldosterone|Adrenal glands|Addison's disease (secondary adrenal insufficiency)|Hyperaldosteronism|
+|Prolactin|Pituitary gland|Hypoprolactinemia|Hyperprolactinemia|
+|Thyroid-stimulating hormone (TSH)|Pituitary gland|Hypothyroidism|Hyperthyroidism|
+|Follicle-stimulating hormone (FSH)|Pituitary gland|Hypogonadism|Gonadotropin-secreting tumors|
+|Luteinizing hormone (LH)|Pituitary gland|Hypogonadism|Gonadotropin-secreting tumors|
+|Adrenocorticotropic hormone (ACTH)|Pituitary gland|Adrenal insufficiency (secondary adrenal insufficiency)|Cushing's disease|
+|Antidiuretic hormone (ADH)|Hypothalamus|Diabetes insipidus|Syndrome of inappropriate ADH secretion (SIADH)|
+|Calcitonin|Thyroid gland|Hypocalcemia|Medullary thyroid cancer|
+|Glucagon|Pancreas|Hypoglycemia|Glucagonoma|
+|Melanocyte-stimulating hormone (MSH)|Hypothalamus, pituitary gland, skin|Hypopituitarism|Melanosis, hyperpigmentation|
+|Ghrelin|Stomach|Prader-Willi syndrome|Ghrelinoma|
+|Leptin|Adipose tissue|Leptin deficiency|Leptin resistance (obesity-related)|
+|Serotonin|Enterochromaffin cells|Serotonin deficiency syndrome|Serotonin syndrome|
+|Vasopressin|Hypothalamus, posterior pituitary gland|Diabetes insipidus|Syndrome of inappropriate ADH secretion (SIADH)|
+|Somatostatin|Pancreas, hypothalamus|Diabetes mellitus type 2 (insulin resistance)|Somatostatinoma|
+|Atrial natriuretic peptide (ANP)|Heart|Sodium retention|Atrial myxoma|
+|Relaxin|Ovaries, placenta|Preterm labor|Overactive relaxin production|
+|Thymosin|Thymus|Reduced T cell development|Thymus gland tumors|
+|Erythropoietin|Kidneys|Anemia|Polycythemia|
+|Cholecystokinin|Intestines|Decreased appetite|Overproduction leading to gallbladder issues|
+|Adiponectin|Adipose tissue|Insulin resistance, metabolic syndrome|Not applicable (low levels associated with obesity)|
+|Norepinephrine|Adrenal glands|Low blood pressure, depression|Hypertension, anxiety|
+|Glucocorticoids|Adrenal glands|Adrenal insufficiency|Cushing's syndrome|
+|Inhibin|Gonads|Unknown (potential involvement in some diseases)|Granulosa cell tumors (ovaries), testicular tumors|
+|Vasoinhibins|Placenta, hypothalamus|Unknown (potential involvement in various conditions)|Not applicable (no specific hypersecretion condition)|
+|Neurotensin|Nervous system, digestive tract|Unknown (potential involvement in various conditions)|Neurotensin-secreting tumors|
+|Secretin|Duodenum|Impaired digestion, malabsorption|Not applicable (rapidly inactivated in the body)|
+|Thrombopoietin|Liver, kidneys|Thrombocytopenia|Thrombocytosis|
+|Fibroblast growth factor 23 (FGF23)|Bones, kidneys|Hypophosphatemic rickets/osteomalacia|Tumor-induced osteomalacia|
+|Gastrin|Stomach, duodenum|Hypogastrinemia|Zollinger-Ellison syndrome (gastrinoma)|
+|Glucagon-like peptide-1 (GLP-1)|Intestines|Impaired glucose regulation|Not applicable (rapidly degraded in the body)|
+|Vasopressin|Hypothalamus, posterior pituitary gland|Diabetes insipidus|Syndrome of inappropriate antidiuretic hormone (SIADH)|
+|Serotonin|Enterochromaffin cells|Serotonin deficiency syndrome|Serotonin syndrome|
+|Prostaglandins|Various tissues|Dysmenorrhea (painful menstruation)|Excessive menstrual bleeding (menorrhagia)|
+|Vasopressin|Hypothalamus, posterior pituitary gland|Diabetes insipidus|Syndrome of inappropriate antidiuretic hormone (SIADH)|
+|Natriuretic peptides|Heart|Sodium retention, hypertension|Natriuretic peptide-secreting tumors|
+
+
+
+**©TITAS MALLICK, +91 9123774239**
+
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADcAAAAQCAYAAACycufIAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAfNJREFUSInt1E2IjWEUB/DfvWa6viIjDSMUUb6izGpWavJRYozVKLLSWNhpMKXZsZGvKSlloQaLKTamiRRNIsKGprERG2VhRWnqci2e5+bpunfc3tJI97953/ec8z/P+fi/Dw000MB04AVKGEc/Zv7Fs+bgOG5m4HbhDQYS2wz04hVG0VFJ+hyD5mMQPRkOrheD2IHhDNwhrBYGVMYyHIm2TqHJXEoqNwd70Bff2zApbHUU7ZHYh4loL2FdjO/ECB7jQI0C81g6RXNbcScW2Y9CtF9IzuuuwV0Q622q1lwLrgqTTZHDBlzDZlwUpLsLR2PMkshtwVxcwaoaRdRqrg1jWBlznMb+xD+MRTVywjacL3/kE0cRt/Ec95OmevEQr9EqDKGI5vhenux6HBYG9UWQyuIpCqmGjcLW3uFrbKa9Tu48YdCXyoZ0fU34XkHoiAd2CY3eiMVvwks8w4kYm8MxyeQyIC/ILkWxDl4BZ3AOH9JkU2E2vuEHdkbbGlyPz4P4GO1vsU+QYk42TGAvlguy7MGTP3AKOIu7gqR/w7jqjc7C5eg/hVvCJifxSZDwgCBR2I17fv34rVVyjiX+ErZX+LvxAE8FmaXqGsLCivgtFflKwsWWCSeFiTYLF8AIVmRN9q9hrbDB93iEQ9NZTAP/I34CUWJlo3IqWz4AAAAASUVORK5CYII=)
