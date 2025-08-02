@@ -616,6 +616,102 @@ This document provides an index of all files within the project, along with a br
     *   **Description:** Numerical problems for DNA RNA Calculations (ISC Class 12).
 *   **Path:** `Numerical Problems\ISC\12\Class_XII_Biology_Chapter_Organisms_and_Populations_Topic_Population_Growth_Numerical_Problems.md`
     *   **Description:** Numerical problems for Population Growth (ISC Class 12).
+*   **Path:** `Practical Guidelines\9\Class_IX_Plant_Life_Seed_Study.md`
+    *   **Description:** Practical guidelines for Seed Study (Class 9).
+*   **Path:** `Practical Guidelines\9\Class_IX_Plant_Life_Microscopy_Onion_Peel.md`
+    *   **Description:** Practical guidelines for Microscopy of Onion Peel (Class 9).
+*   **Path:** `Practical Guidelines\9\Class_IX_Plant_Life_Flower_Study.md`
+    *   **Description:** Practical guidelines for Flower Study (Class 9).
+*   **Path:** `Practical Guidelines\9\Class_IX_Field_Visits_Waste_Disposal.md`
+    *   **Description:** Practical guidelines for Field Visits - Waste Disposal (Class 9).
+*   **Path:** `Practical Guidelines\9\Class_IX_Field_Visits_Treatment_Sites.md`
+    *   **Description:** Practical guidelines for Field Visits - Treatment Sites (Class 9).
+*   **Path:** `Practical Guidelines\9\Class_IX_Animal_Life_Specimen_Identification.md`
+    *   **Description:** Practical guidelines for Animal Life - Specimen Identification (Class 9).
+*   **Path:** `Practical Guidelines\9\Class_IX_Animal_Life_Organ_Study.md`
+    *   **Description:** Practical guidelines for Animal Life - Organ Study (Class 9).
+*   **Path:** `Practical Guidelines\9\Class_IX_Animal_Life_Microscopy_Cheek_Cell.md`
+    *   **Description:** Practical guidelines for Animal Life - Microscopy of Cheek Cell (Class 9).
+*   **Path:** `Practical Guidelines\9\Class_IX_Animal_Life_Food_Tests.md`
+    *   **Description:** Practical guidelines for Animal Life - Food Tests (Class 9).
+*   **Path:** `Practical Guidelines\9\Class_IX_Animal_Life_Breathing_Mechanism.md`
+    *   **Description:** Practical guidelines for Animal Life - Breathing Mechanism (Class 9).
+*   **Path:** `Practical Guidelines\10\Class_X_Animal_Life_Endocrine_Gland_Identification.md`
+    *   **Description:** Practical guidelines for Animal Life - Endocrine Gland Identification (Class 10).
+*   **Path:** `Practical Guidelines\10\Class_X_Animal_Life_Sense_Organ_Identification.md`
+    *   **Description:** Practical guidelines for Animal Life - Sense Organ Identification (Class 10).
+*   **Path:** `Practical Guidelines\10\Class_X_Animal_Life_Blood_Cell_Identification.md`
+    *   **Description:** Practical guidelines for Animal Life - Blood Cell Identification (Class 10).
+*   **Path:** `Practical Guidelines\10\Class_X_Animal_Life_Organ_Identification.md`
+    *   **Description:** Practical guidelines for Animal Life - Organ Identification (Class 10).
+*   **Path:** `Practical Guidelines\10\Class_X_Plant_Life_Photosynthesis.md`
+    *   **Description:** Practical guidelines for Plant Life - Photosynthesis (Class 10).
+*   **Path:** `Practical Guidelines\10\Class_X_Plant_Life_Transpiration.md`
+    *   **Description:** Practical guidelines for Plant Life - Transpiration (Class 10).
+*   **Path:** `Practical Guidelines\10\Class_X_Plant_Life_Experiments_Absorption.md`
+    *   **Description:** Practical guidelines for Plant Life - Experiments on Absorption (Class 10).
+*   **Path:** `Practical Guidelines\10\Class_X_Plant_Life_Experiments_Osmosis.md`
+    *   **Description:** Practical guidelines for Plant Life - Experiments on Osmosis (Class 10).
+*   **Path:** `Practical Guidelines\10\Class_X_Plant_Life_Experiments_Diffusion.md`
+    *   **Description:** Practical guidelines for Plant Life - Experiments on Diffusion (Class 10).
+*   **Path:** `Practical Guidelines\10\Class_X_Plant_Life_Microscopy_Mitosis.md`
+    *   **Description:** Practical guidelines for Plant Life - Microscopy of Mitosis (Class 10).
+*   **Path:** `Practical Guidelines\11\Class_XI_Spotting.md`
+    *   **Description:** Practical guidelines for Spotting (Class 11).
+*   **Path:** `Practical Guidelines\11\Class_XI_Project_Practical_File_Guidelines.md`
+    *   **Description:** Practical guidelines for Project Practical File (Class 11).
+*   **Path:** `Practical Guidelines\11\Class_XI_Cytology_TS_Monocot_Dicot_Stems.md`
+    *   **Description:** Practical guidelines for Cytology - TS of Monocot and Dicot Stems (Class 11).
+*   **Path:** `Practical Guidelines\11\Class_XI_Cytology_TS_Monocot_Dicot_Roots.md`
+    *   **Description:** Practical guidelines for Cytology - TS of Monocot and Dicot Roots (Class 11).
+*   **Path:** `Practical Guidelines\11\Class_XI_Cytology_Mitosis_Onion_Root_Tips.md`
+    *   **Description:** Practical guidelines for Cytology - Mitosis in Onion Root Tips (Class 11).
+*   **Path:** `Practical Guidelines\11\Class_XI_Physiology_Plasmolysis_Demonstration.md`
+    *   **Description:** Practical guidelines for Physiology - Plasmolysis Demonstration (Class 11).
+*   **Path:** `Practical Guidelines\11\Class_XI_Physiology_Photosynthesis_CO2_Effect.md`
+    *   **Description:** Practical guidelines for Physiology - Photosynthesis CO2 Effect (Class 11).
+*   **Path:** `Practical Guidelines\11\Class_XI_Physiology_Osmosis_Potato_Osmoscope.md`
+    *   **Description:** Practical guidelines for Physiology - Osmosis using Potato Osmoscope (Class 11).
+*   **Path:** `Practical Guidelines\11\Class_XI_Physiology_Chromatography_Plant_Pigments.md`
+    *   **Description:** Practical guidelines for Physiology - Chromatography of Plant Pigments (Class 11).
+*   **Path:** `Practical Guidelines\11\Class_XI_Physiology_Food_Tests.md`
+    *   **Description:** Practical guidelines for Physiology - Food Tests (Class 11).
+*   **Path:** `Practical Guidelines\11\Class_XI_Physiology_Beet_Root_Permeability.md`
+    *   **Description:** Practical guidelines for Physiology - Beet Root Permeability (Class 11).
+*   **Path:** `Practical Guidelines\11\Class_XI_Morphology_Plant_Modifications.md`
+    *   **Description:** Practical guidelines for Morphology - Plant Modifications (Class 11).
+*   **Path:** `Practical Guidelines\11\Class_XI_Morphology_Mucor_Rhizopus_Slides.md`
+    *   **Description:** Practical guidelines for Morphology - Mucor Rhizopus Slides (Class 11).
+*   **Path:** `Practical Guidelines\11\Class_XI_Morphology_Phyllotaxy_Leaf_Study.md`
+    *   **Description:** Practical guidelines for Morphology - Phyllotaxy and Leaf Study (Class 11).
+*   **Path:** `Practical Guidelines\11\Class_XI_Cytology_Onion_Peel_Slide.md`
+    *   **Description:** Practical guidelines for Cytology - Onion Peel Slide (Class 11).
+*   **Path:** `Practical Guidelines\11\Class_XI_Scientific_Techniques_Microscope.md`
+    *   **Description:** Practical guidelines for Scientific Techniques - Microscope (Class 11).
+*   **Path:** `Practical Guidelines\12\Class_XII_Spotting.md`
+    *   **Description:** Practical guidelines for Spotting (Class 12).
+*   **Path:** `Practical Guidelines\12\Class_XII_Slide_Prep_LS_Monocot_Dicot_Seeds.md`
+    *   **Description:** Practical guidelines for Slide Preparation - LS of Monocot and Dicot Seeds (Class 12).
+*   **Path:** `Practical Guidelines\12\Class_XII_Project_Practical_File_Guidelines.md`
+    *   **Description:** Practical guidelines for Project Practical File (Class 12).
+*   **Path:** `Practical Guidelines\12\Class_XII_Slide_Prep_TS_Xerophyte_Leaf.md`
+    *   **Description:** Practical guidelines for Slide Preparation - TS of Xerophyte Leaf (Class 12).
+*   **Path:** `Practical Guidelines\12\Class_XII_Slide_Prep_TS_Ovary.md`
+    *   **Description:** Practical guidelines for Slide Preparation - TS of Ovary (Class 12).
+*   **Path:** `Practical Guidelines\12\Class_XII_Slide_Prep_TS_Hydrophyte_Stem.md`
+    *   **Description:** Practical guidelines for Slide Preparation - TS of Hydrophyte Stem (Class 12).
+*   **Path:** `Practical Guidelines\12\Class_XII_Slide_Prep_Pollen_Germination.md`
+    *   **Description:** Practical guidelines for Slide Preparation - Pollen Germination (Class 12).
+*   **Path:** `Practical Guidelines\12\Class_XII_Biochem_Physio_Soil_Analysis.md`
+    *   **Description:** Practical guidelines for Biochemistry and Physiology - Soil Analysis (Class 12).
+*   **Path:** `Practical Guidelines\12\Class_XII_Biochem_Physio_DNA_Isolation.md`
+    *   **Description:** Practical guidelines for Biochemistry and Physiology - DNA Isolation (Class 12).
+*   **Path:** `Practical Guidelines\12\Class_XII_Taxonomy_Floral_Study.md`
+    *   **Description:** Practical guidelines for Taxonomy - Floral Study (Class 12).
+*   **Path:** `Practical Guidelines\12\Class_XII_Biochem_Physio_Stomata_Distribution.md`
+    *   **Description:** Practical guidelines for Biochemistry and Physiology - Stomata Distribution (Class 12).
+*   **Path:** `Practical Guidelines\12\Class_XII_Biochem_Physio_Enzyme_Action.md`
+    *   **Description:** Practical guidelines for Biochemistry and Physiology - Enzyme Action (Class 12).
 *   **Path:** `Question Guide\Combined Syllabus.md`
     *   **Description:** Combined Syllabus guide.
 *   **Path:** `Question Guide\Detailed_Lesson_Plan_Micro_Schedule_Template.md`

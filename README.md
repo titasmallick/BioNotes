@@ -47,10 +47,28 @@ BioNotes/
 │   ├── ICSE/
 │   └── ISC/
 ├── Question Guide/
+├── Practical Guidelines/
+│   ├── 9/
+│   ├── 10/
+│   ├── 11/
+│   └── 12/
 └── Suggestions/
     ├── ICSE/
     └── ISC/
 ```
+
+---
+
+## 🧪 Practical Guidelines
+
+> 📌 Hands-on learning for a deeper understanding!
+
+This section provides detailed guidelines for various practical experiments and observations across different classes.
+
+**Features:**
+- **Class-wise Organization:** Practical guidelines are categorized by class (9-12) for easy navigation.
+- **Detailed Procedures:** Step-by-step instructions for experiments, microscopy, and specimen identification.
+- **Visual Learning:** Designed to complement theoretical knowledge with practical application.
 
 ---
 
