@@ -33,6 +33,14 @@ AutoNotes/
 ├── 12/
 │   ├── Notes/
 │   └── Question Bank/
+├── Glossary/
+│   ├── A-B.md
+│   ├── C-E.md
+│   ├── F-H.md
+│   ├── I-M.md
+│   ├── N-P.md
+│   ├── Q-S.md
+│   └── T-Z.md
 ├── Numerical Problems/
 │   ├── ICSE/
 │   └── ISC/
