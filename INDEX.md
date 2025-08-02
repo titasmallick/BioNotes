@@ -731,6 +731,6 @@ This document provides an index of all files within the project, along with a br
 
 | File Type | Count |
 |---|---|
-| .md | 311 |
+| .md | 360 |
 | .gitattributes | 1 |
 | (No Extension) | 1 |
