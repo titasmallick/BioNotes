@@ -25,7 +25,6 @@ A bean seed is a typical non-endospermic dicot seed, meaning the food is stored 
         *   **Radicle:** The lower end, which develops into the root system.
         *   **Plumule:** The upper end, which develops into the shoot system (stem, leaves, and flowers).
 
-![Structure of a Bean Seed](https://i.imgur.com/example.png) <!-- Placeholder for a diagram -->
 
 ### 2. Structure of a Monocot Seed (Example: Maize Grain)
 
@@ -40,7 +39,6 @@ A maize grain is a type of fruit called a **caryopsis**, where the fruit wall (p
         *   **Plumule:** The embryonic shoot, protected by a sheath called the **coleoptile**.
         *   **Radicle:** The embryonic root, protected by a sheath called the **coleorhiza**.
 
-![Structure of a Maize Grain](https://i.imgur.com/example.png) <!-- Placeholder for a diagram -->
 
 ### Differences between Dicot and Monocot Seeds
 
