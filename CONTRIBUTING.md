@@ -1,6 +1,6 @@
-# Contributing to AutoNotes
+# Contributing to BioNotes
 
-Thank you for your interest in contributing to AutoNotes! We welcome contributions from students, teachers, and anyone else with a passion for biology. By contributing, you can help us create a high-quality, comprehensive resource for learners around the world.
+Thank you for your interest in contributing to BioNotes! We welcome contributions from students, teachers, and anyone else with a passion for biology. By contributing, you can help us create a high-quality, comprehensive resource for learners around the world.
 
 ## How to Contribute
 
@@ -10,7 +10,7 @@ There are several ways you can contribute to the project:
 *   **Improving Existing Notes:** If you find an error in our notes, or if you think you can improve them, please let us know. We're always looking for ways to make our content better.
 *   **Adding Diagrams and Illustrations:** Biology is a visual subject, so we're always looking for high-quality diagrams and illustrations to add to our notes.
 *   **Creating Quizzes and Practice Questions:** We're always looking for new quizzes and practice questions to help students test their knowledge.
-*   **Translating Content:** We'd love to make AutoNotes available in other languages. If you're fluent in another language, we'd be grateful for your help with translation.
+*   **Translating Content:** We'd love to make BioNotes available in other languages. If you're fluent in another language, we'd be grateful for your help with translation.
 
 ## Formatting and Style Guide
 

@@ -1,12 +1,12 @@
-# 🧬 AutoNotes: Class 5–12 Biology Notes & Study Guide
+# 🧬 BioNotes: Class 5–12 Biology Notes & Study Guide
 
-Welcome to **AutoNotes**, your one-stop, syllabus-friendly repository of biology notes, diagrams, and study suggestions for students of **Class 5 to 12**! Whether you're dissecting your first leaf 🍃 or diving into DNA 🧬, this repo is designed to make biology *fun, clear, and exam-ready*.
+Welcome to **BioNotes**, your one-stop, syllabus-friendly repository of biology notes, diagrams, and study suggestions for students of **Class 5 to 12**! Whether you're dissecting your first leaf 🍃 or diving into DNA 🧬, this repo is designed to make biology *fun, clear, and exam-ready*.
 
 ---
 
 ## 📚 Contents
 ```
-AutoNotes/
+BioNotes/
 ├── 5/
 │   ├── Notes/
 │   └── Question Bank/
@@ -123,7 +123,7 @@ Help us grow the BioVault! If you have clean, accurate biology notes, memory tip
 
 ## 🧑‍💻 About the Author
 
-AutoNotes is created and maintained by **Titas Mallick**.
+BioNotes is created and maintained by **Titas Mallick**.
 
 **Visionary Educator**
 Seeking an opportunity to use my knowledge and talent to educate children and prepare them for today's world. I aim to encourage and enable students to develop inquiring minds and curiosity about science and nature. A passionate educator with a strong teaching aptitude. Possesses thorough knowledge of the subject and its background. Fluent in spoken English with a command over comprehension. Proficient in handling computer-aided tools and effective classroom management.
