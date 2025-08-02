@@ -8,16 +8,38 @@ Welcome to **AutoNotes**, your one-stop, syllabus-friendly repository of biology
 ```
 AutoNotes/
 ├── 5/
+│   ├── Notes/
+│   └── Question Bank/
 ├── 6/
+│   ├── Notes/
+│   ├── Extended Notes/
+│   └── Question Bank/
 ├── 7/
+│   ├── Notes/
+│   ├── Extended Notes/
+│   └── Question Bank/
 ├── 8/
+│   ├── Notes/
+│   └── Question Bank/
 ├── 9/
+│   ├── Notes/
+│   └── Question Bank/
 ├── 10/
+│   ├── Notes/
+│   └── Question Bank/
 ├── 11/
+│   ├── Notes/
+│   └── Question Bank/
 ├── 12/
+│   ├── Notes/
+│   └── Question Bank/
 ├── Numerical Problems/
+│   ├── ICSE/
+│   └── ISC/
 ├── Question Guide/
 └── Suggestions/
+    ├── ICSE/
+    └── ISC/
 ```
 
 ---
@@ -41,6 +63,19 @@ AutoNotes/
 - Use the notes for quick revision and in-depth study.
 - Refer to the "Numerical Problems" for practice.
 - Check the "Question Guide" and "Suggestions" for exam preparation.
+
+---
+
+## 🧠 Question Bank
+
+> 📌 Practice makes perfect!
+
+Each class folder contains a `Question Bank` with chapter-wise questions to help you test your knowledge and prepare for exams.
+
+**Features:**
+- **Chapter-wise Questions:** Find questions organized by topic.
+- **Exam-Oriented:** Designed to reflect the format of typical exam questions.
+- **Self-Assessment:** A great way to check your understanding and identify areas for improvement.
 
 ---
 
