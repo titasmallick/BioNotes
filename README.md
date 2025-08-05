@@ -115,7 +115,7 @@ Browse the folders by class level (e.g., `5/`, `6/`, `10/`, `11/`, `12/`) to fin
 
 ## 🌐 Live Demo
 
-You can view these notes online at: [https://noteview.vercel.app/](https://noteview.vercel.app/)
+You can view these notes online at: [https://bionotes-liard.vercel.app/](https://bionotes-liard.vercel.app/)
 
 ---
 
