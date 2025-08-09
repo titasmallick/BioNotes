@@ -28,13 +28,15 @@ BioNotes/
 │   └── Question Bank/
 ├── 10/
 │   ├── Notes/
-│   └── Question Bank/
+│   ├── Question Bank/
+│   └── Specimen Paper/
 ├── 11/
 │   ├── Notes/
 │   └── Question Bank/
 ├── 12/
 │   ├── Notes/
-│   └── Question Bank/
+│   ├── Question Bank/
+│   └── Specimen Paper/
 ├── Glossary/
 │   ├── A-B.md
 │   ├── C-E.md
@@ -44,6 +46,9 @@ BioNotes/
 │   ├── Q-S.md
 │   └── T-Z.md
 ├── Numerical Problems/
+│   ├── ICSE/
+│   └── ISC/
+├── Previous-Year-Questions/
 │   ├── ICSE/
 │   └── ISC/
 ├── Question Guide/
@@ -104,6 +109,29 @@ Each class folder contains a `Question Bank` with chapter-wise questions to help
 - **Chapter-wise Questions:** Find questions organized by topic.
 - **Exam-Oriented:** Designed to reflect the format of typical exam questions.
 - **Self-Assessment:** A great way to check your understanding and identify areas for improvement.
+
+---
+
+## 📝 Specimen Papers & Suggestions
+
+> 📌 Your crystal ball for exam patterns!
+
+This section contains:
+- **Specimen Papers:** Get a feel for the real exam with papers designed to match the official format and style.
+- **Exam Suggestions/Predictions:** Find curated suggestions and predictions for upcoming exams to focus your preparation.
+
+---
+
+## 🗓️ Previous Year Questions
+
+> 📌 Learn from the past, conquer the future!
+
+This section provides a comprehensive collection of previous year's questions, categorized by board (ICSE/ISC), to help you understand exam patterns and practice effectively.
+
+**Features:**
+- **Board-wise Segregation:** Questions are organized for ICSE and ISC boards.
+- **Real Exam Practice:** Practice with actual questions asked in previous examinations.
+- **Pattern Recognition:** Identify recurring themes and question types to optimize your study.
 
 ---
 
