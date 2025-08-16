@@ -104,6 +104,7 @@ D:\Pendrive Backup\Notes\AutoNotes
 │   ├───hormonal_pathways_notes.md
 │   ├───nerve_impulse_guide.md
 │   ├───sliding_filament_notes.md
+│   ├───Slides
 │   └───Question Bank
 │   ├───Question Bank
 │   │   └───11
@@ -288,6 +289,7 @@ D:\Pendrive Backup\Notes\AutoNotes
 │   ├───6_3_Agriculture.md
 │   ├───6_4_Horticulture_and_Organic_Farming.md
 │   ├───6_5_Animal_Husbandry.md
+│   ├───Slides
 │   └───Question Bank
 │   ├───Question Bank
 │   │   └───8

@@ -11,31 +11,39 @@ Welcome to **BioNotes**, your one-stop, syllabus-friendly repository of biology 
 BioNotes/
 ├── 5/
 │   ├── Notes/
+│   ├── Slides/
 │   └── Question Bank/
 ├── 6/
 │   ├── Notes/
+│   ├── Slides/
 │   ├── Extended Notes/
 │   └── Question Bank/
 ├── 7/
 │   ├── Notes/
 │   ├── Extended Notes/
+│   ├── Slides/
 │   └── Question Bank/
 ├── 8/
 │   ├── Notes/
+│   ├── Slides/
 │   └── Question Bank/
 ├── 9/
 │   ├── Notes/
+│   ├── Slides/
 │   └── Question Bank/
 ├── 10/
 │   ├── Notes/
+│   ├── Slides/
 │   ├── Question Bank/
 │   └── Specimen Paper/
 ├── 11/
 │   ├── Notes/
+│   ├── Slides/
 │   └── Question Bank/
 ├── 12/
 │   ├── Notes/
 │   ├── Question Bank/
+│   ├── Slides/
 │   └── Specimen Paper/
 ├── Glossary/
 │   ├── A-B.md

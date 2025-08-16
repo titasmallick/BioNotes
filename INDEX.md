@@ -852,8 +852,255 @@ This document provides an index of all files within the project, along with a br
 *   **Path:** `Syllabus/class_9_syllabus.md`
     *   **Description:** Syllabus for Class 9.
 
+*   **Path:** `5/Slides/5_1_Plant_Reproduction_slides.html`
+    *   **Description:** Slides on Plant Reproduction (Class 5).
+*   **Path:** `5/Slides/4_1_Pollination_slides.html`
+    *   **Description:** Slides on Pollination (Class 5).
+*   **Path:** `5/Slides/3_1_Food_and_Health_slides.html`
+    *   **Description:** Slides on Food and Health (Class 5).
+*   **Path:** `5/Slides/2_1_Skeletal_System_slides.html`
+    *   **Description:** Slides on Skeletal System (Class 5).
+*   **Path:** `5/Slides/1_1_Circulatory_System_slides.html`
+    *   **Description:** Slides on Circulatory System (Class 5).
+*   **Path:** `6/Slides/5_1_Adaptation_slides.html`
+    *   **Description:** Slides on Adaptation (Class 6).
+*   **Path:** `6/Slides/4_1_Health_and_Hygiene_slides.html`
+    *   **Description:** Slides on Health and Hygiene (Class 6).
+*   **Path:** `6/Slides/3_3_Circulatory_System_slides.html`
+    *   **Description:** Slides on Circulatory System (Class 6).
+*   **Path:** `6/Slides/3_2_Respiratory_System_slides.html`
+    *   **Description:** Slides on Respiratory System (Class 6).
+*   **Path:** `6/Slides/3_1_Digestive_System_slides.html`
+    *   **Description:** Slides on Digestive System (Class 6).
+*   **Path:** `6/Slides/2_1_The_Cell_slides.html`
+    *   **Description:** Slides on The Cell (Class 6).
+*   **Path:** `6/Slides/1_2_The_Flower_slides.html`
+    *   **Description:** Slides on The Flower (Class 6).
+*   **Path:** `6/Slides/1_1_The_Leaf_slides.html`
+    *   **Description:** Slides on The Leaf (Class 6).
+*   **Path:** `7/Slides/5_1_Allergy_slides.html`
+    *   **Description:** Slides on Allergy (Class 7).
+*   **Path:** `7/Slides/4_2_Nervous_System_slides.html`
+    *   **Description:** Slides on Nervous System (Class 7).
+*   **Path:** `7/Slides/4_1_Excretory_System_slides.html`
+    *   **Description:** Slides on Excretory System (Class 7).
+*   **Path:** `7/Slides/3_2_Respiration_slides.html`
+    *   **Description:** Slides on Respiration (Class 7).
+*   **Path:** `7/Slides/3_1_Photosynthesis_slides.html`
+    *   **Description:** Slides on Photosynthesis (Class 7).
+*   **Path:** `7/Slides/2_6_Kingdom_Animalia_slides.html`
+    *   **Description:** Slides on Kingdom Animalia (Class 7).
+*   **Path:** `7/Slides/2_5_Kingdom_Plantae_slides.html`
+    *   **Description:** Slides on Kingdom Plantae (Class 7).
+*   **Path:** `7/Slides/2_4_Kingdom_Fungi_slides.html`
+    *   **Description:** Slides on Kingdom Fungi (Class 7).
+*   **Path:** `7/Slides/2_3_Kingdom_Protista_slides.html`
+    *   **Description:** Slides on Kingdom Protista (Class 7).
+*   **Path:** `7/Slides/2_2_Kingdom_Monera_slides.html`
+    *   **Description:** Slides on Kingdom Monera (Class 7).
+*   **Path:** `7/Slides/2_1_Kingdom_Classification_Concepts_slides.html`
+    *   **Description:** Slides on Kingdom Classification Concepts (Class 7).
+*   **Path:** `7/Slides/1_2_Animal_Tissues_slides.html`
+    *   **Description:** Slides on Animal Tissues (Class 7).
+*   **Path:** `7/Slides/1_1_Plant_Tissues_slides.html`
+    *   **Description:** Slides on Plant Tissues (Class 7).
+*   **Path:** `8/Slides/6_5_Animal_Husbandry_slides.html`
+    *   **Description:** Slides on Animal Husbandry (Class 8).
+*   **Path:** `8/Slides/6_4_Horticulture_and_Organic_Farming_slides.html`
+    *   **Description:** Slides on Horticulture and Organic Farming (Class 8).
+*   **Path:** `8/Slides/6_3_Agriculture_slides.html`
+    *   **Description:** Slides on Agriculture (Class 8).
+*   **Path:** `8/Slides/6_2_Fungi_slides.html`
+    *   **Description:** Slides on Fungi (Class 8).
+*   **Path:** `8/Slides/6_1_Bacteria_slides.html`
+    *   **Description:** Slides on Bacteria (Class 8).
+*   **Path:** `8/Slides/5_2_First_Aid_slides.html`
+    *   **Description:** Slides on First Aid (Class 8).
+*   **Path:** `8/Slides/5_1_Diseases_slides.html`
+    *   **Description:** Slides on Diseases (Class 8).
+*   **Path:** `8/Slides/4_3_Nervous_System_slides.html`
+    *   **Description:** Slides on Nervous System (Class 8).
+*   **Path:** `8/Slides/4_2_Circulatory_System_slides.html`
+    *   **Description:** Slides on Circulatory System (Class 8).
+*   **Path:** `8/Slides/4_1_Endocrine_System_slides.html`
+    *   **Description:** Slides on Endocrine System (Class 8).
+*   **Path:** `8/Slides/3_1_Ecosystems_slides.html`
+    *   **Description:** Slides on Ecosystems (Class 8).
+*   **Path:** `8/Slides/2_1_Reproduction_in_Plant_and_Animals_slides.html`
+    *   **Description:** Slides on Reproduction in Plant and Animals (Class 8).
+*   **Path:** `8/Slides/1_1_Transport_of_Food_and_Minerals_in_Plants_slides.html`
+    *   **Description:** Slides on Transport of Food and Minerals in Plants (Class 8).
+*   **Path:** `9/Slides/7_2_Safe_Disposal_Methods_slides.html`
+    *   **Description:** Slides on Safe Disposal Methods (Class 9).
+*   **Path:** `9/Slides/7_1_Sources_of_Waste_slides.html`
+    *   **Description:** Slides on Sources of Waste (Class 9).
+*   **Path:** `9/Slides/6_5_Health_Organisations_slides.html`
+    *   **Description:** Slides on Health Organisations (Class 9).
+*   **Path:** `9/Slides/6_4_Aids_to_Health_slides.html`
+    *   **Description:** Slides on Aids to Health (Class 9).
+*   **Path:** `9/Slides/6_3_Diseases_Symptoms_and_Control_slides.html`
+    *   **Description:** Slides on Diseases Symptoms and Control (Class 9).
+*   **Path:** `9/Slides/6_2_Diseases_and_Transmission_slides.html`
+    *   **Description:** Slides on Diseases and Transmission (Class 9).
+*   **Path:** `9/Slides/5_6_Respiratory_System_slides.html`
+    *   **Description:** Slides on Respiratory System (Class 9).
+*   **Path:** `9/Slides/5_5_Skin_Structure_and_Function_slides.html`
+    *   **Description:** Slides on Skin Structure and Function (Class 9).
+*   **Path:** `9/Slides/5_4_Skeleton_Movement_and_Locomotion_slides.html`
+    *   **Description:** Slides on Skeleton Movement and Locomotion (Class 9).
+*   **Path:** `9/Slides/5_3_Digestive_System_slides.html`
+    *   **Description:** Slides on Digestive System (Class 9).
+*   **Path:** `9/Slides/5_2_Teeth_slides.html`
+    *   **Description:** Slides on Teeth (Class 9).
+*   **Path:** `9/Slides/5_1_Food_Classes_and_Balanced_Diet_slides.html`
+    *   **Description:** Slides on Food Classes and Balanced Diet (Class 9).
+*   **Path:** `9/Slides/4_3_Economic_Importance_of_Fungi_slides.html`
+    *   **Description:** Slides on Economic Importance of Fungi (Class 9).
+*   **Path:** `9/Slides/4_2_Economic_Importance_of_Bacteria_slides.html`
+    *   **Description:** Slides on Economic Importance of Bacteria (Class 9).
+*   **Path:** `9/Slides/4_1_Five_Kingdom_Classification_slides.html`
+    *   **Description:** Slides on Five Kingdom Classification (Class 9).
+*   **Path:** `9/Slides/3_2_Respiration_in_Plants_slides.html`
+    *   **Description:** Slides on Respiration in Plants (Class 9).
+*   **Path:** `9/Slides/3_1_Structure_of_Seeds_and_Germination_slides.html`
+    *   **Description:** Slides on Structure of Seeds and Germination (Class 9).
+*   **Path:** `9/Slides/2_3_Fertilisation_slides.html`
+    *   **Description:** Slides on Fertilisation (Class 9).
+*   **Path:** `9/Slides/2_2_Pollination_slides.html`
+    *   **Description:** Slides on Pollination (Class 9).
+*   **Path:** `9/Slides/2_1_Flower_slides.html`
+    *   **Description:** Slides on Flower (Class 9).
+*   **Path:** `9/Slides/1_2_Tissues_slides.html`
+    *   **Description:** Slides on Tissues (Class 9).
+*   **Path:** `9/Slides/1_1_The_Cell_A_Unit_of_Life_slides.html`
+    *   **Description:** Slides on The Cell A Unit of Life (Class 9).
+*   **Path:** `10/Slides/6_Pollution_slides.html`
+    *   **Description:** Slides on Pollution (Class 10).
+*   **Path:** `10/Slides/5_Human_Evolution_slides.html`
+    *   **Description:** Slides on Human Evolution (Class 10).
+*   **Path:** `10/Slides/4_Population_slides.html`
+    *   **Description:** Slides on Population (Class 10).
+*   **Path:** `10/Slides/3_5_Reproductive_System_slides.html`
+    *   **Description:** Slides on Reproductive System (Class 10).
+*   **Path:** `10/Slides/3_4_Endocrine_System_slides.html`
+    *   **Description:** Slides on Endocrine System (Class 10).
+*   **Path:** `10/Slides/3_3_Nervous_System_slides.html`
+    *   **Description:** Slides on Nervous System (Class 10).
+*   **Path:** `10/Slides/3_2_Excretory_System_slides.html`
+    *   **Description:** Slides on Excretory System (Class 10).
+*   **Path:** `10/Slides/3_1_Circulatory_System_slides.html`
+    *   **Description:** Slides on Circulatory System (Class 10).
+*   **Path:** `10/Slides/2_4_Chemical_Coordination_in_Plants_slides.html`
+    *   **Description:** Slides on Chemical Coordination in Plants (Class 10).
+*   **Path:** `10/Slides/2_3_Photosynthesis_slides.html`
+    *   **Description:** Slides on Photosynthesis (Class 10).
+*   **Path:** `10/Slides/2_2_Transpiration_slides.html`
+    *   **Description:** Slides on Transpiration (Class 10).
+*   **Path:** `10/Slides/2_1_Absorption_by_Roots_slides.html`
+    *   **Description:** Slides on Absorption by Roots (Class 10).
+*   **Path:** `10/Slides/1_3_Genetics_slides.html`
+    *   **Description:** Slides on Genetics (Class 10).
+*   **Path:** `10/Slides/1_2_Structure_of_Chromosome_slides.html`
+    *   **Description:** Slides on Structure of Chromosome (Class 10).
+*   **Path:** `10/Slides/1_1_Cell_Cycle_and_Cell_Division_slides.html`
+    *   **Description:** Slides on Cell Cycle and Cell Division (Class 10).
+*   **Path:** `11/slides/sliding_filament_notes_slides.html`
+    *   **Description:** Slides on Sliding Filament Notes (Class 11).
+*   **Path:** `11/slides/RAAS_Pathway_Detailed_Notes_slides.html`
+    *   **Description:** Slides on RAAS Pathway Detailed Notes (Class 11).
+*   **Path:** `11/slides/Plant_Physiology_Photoperiodism_slides.html`
+    *   **Description:** Slides on Plant Physiology Photoperiodism (Class 11).
+*   **Path:** `11/slides/Plant Kingdom Comparison_slides.html`
+    *   **Description:** Slides on Plant Kingdom Comparison (Class 11).
+*   **Path:** `11/slides/Oxygen_Transport_Detailed_Notes_slides.html`
+    *   **Description:** Slides on Oxygen Transport Detailed Notes (Class 11).
+*   **Path:** `11/slides/nerve_impulse_guide_slides.html`
+    *   **Description:** Slides on Nerve Impulse Guide (Class 11).
+*   **Path:** `11/slides/Hormones_slides.html`
+    *   **Description:** Slides on Hormones (Class 11).
+*   **Path:** `11/slides/hormonal_pathways_notes_slides.html`
+    *   **Description:** Slides on Hormonal Pathways Notes (Class 11).
+*   **Path:** `11/slides/Hemostatic_Cascade_Detailed_Notes_slides.html`
+    *   **Description:** Slides on Hemostatic Cascade Detailed Notes (Class 11).
+*   **Path:** `11/slides/Heart_Attack_Cardiac_Arrest_Comparison_slides.html`
+    *   **Description:** Slides on Heart Attack Cardiac Arrest Comparison (Class 11).
+*   **Path:** `11/slides/enzyme_kinetics_detailed_notes_slides.html`
+    *   **Description:** Slides on Enzyme Kinetics Detailed Notes (Class 11).
+*   **Path:** `11/slides/Endocrine_Case_Study_slides.html`
+    *   **Description:** Slides on Endocrine Case Study (Class 11).
+*   **Path:** `11/slides/ECG_Detailed_Notes_slides.html`
+    *   **Description:** Slides on ECG Detailed Notes (Class 11).
+*   **Path:** `11/slides/cardiac_cycle_slides.html`
+    *   **Description:** Slides on Cardiac Cycle (Class 11).
+*   **Path:** `11/slides/5.6_Chemical_Coordination_and_Integration_slides.html`
+    *   **Description:** Slides on Chemical Coordination and Integration (Class 11).
+*   **Path:** `11/slides/5.5_Neural_Control_and_Coordination_slides.html`
+    *   **Description:** Slides on Neural Control and Coordination (Class 11).
+*   **Path:** `11/slides/5.4_Locomotion_and_Movement_slides.html`
+    *   **Description:** Slides on Locomotion and Movement (Class 11).
+*   **Path:** `11/slides/5.3_Excretory_Products_and_Their_Elimination_slides.html`
+    *   **Description:** Slides on Excretory Products and Their Elimination (Class 11).
+*   **Path:** `11/slides/5.2_Body_Fluids_and_Circulation_slides.html`
+    *   **Description:** Slides on Body Fluids and Circulation (Class 11).
+*   **Path:** `11/slides/5.1_Breathing_and_Exchange_of_Gases_slides.html`
+    *   **Description:** Slides on Breathing and Exchange of Gases (Class 11).
+*   **Path:** `11/slides/4.3_Plant_Growth_and_Development_slides.html`
+    *   **Description:** Slides on Plant Growth and Development (Class 11).
+*   **Path:** `11/slides/4.2_Respiration_in_Plants_slides.html`
+    *   **Description:** Slides on Respiration in Plants (Class 11).
+*   **Path:** `11/slides/4.1_Photosynthesis_in_Higher_Plants_slides.html`
+    *   **Description:** Slides on Photosynthesis in Higher Plants (Class 11).
+*   **Path:** `11/slides/3.3_Cell_Cycle_and_Cell_Division_slides.html`
+    *   **Description:** Slides on Cell Cycle and Cell Division (Class 11).
+*   **Path:** `11/slides/3.2_Biomolecules_slides.html`
+    *   **Description:** Slides on Biomolecules (Class 11).
+*   **Path:** `11/slides/3.1_Cell_The_Unit_of_Life_slides.html`
+    *   **Description:** Slides on Cell The Unit of Life (Class 11).
+*   **Path:** `11/slides/2.3_Structural_Organisation_in_Animals_slides.html`
+    *   **Description:** Slides on Structural Organisation in Animals (Class 11).
+*   **Path:** `11/slides/2.2_Anatomy_of_Flowering_Plants_slides.html`
+    *   **Description:** Slides on Anatomy of Flowering Plants (Class 11).
+*   **Path:** `11/slides/2.1_Morphology_of_Flowering_Plants_slides.html`
+    *   **Description:** Slides on Morphology of Flowering Plants (Class 11).
+*   **Path:** `11/slides/1.4_Animal_Kingdom_slides.html`
+    *   **Description:** Slides on Animal Kingdom (Class 11).
+*   **Path:** `11/slides/1.3_Plant_Kingdom_slides.html`
+    *   **Description:** Slides on Plant Kingdom (Class 11).
+*   **Path:** `11/slides/1.2_Biological_Classification_slides.html`
+    *   **Description:** Slides on Biological Classification (Class 11).
+*   **Path:** `11/slides/1.1_The_Living_World_slides.html`
+    *   **Description:** Slides on The Living World (Class 11).
+*   **Path:** `12/Slides/Unit_5_Chapter_3_Biodiversity_and_Conservation_V2_slides.html`
+    *   **Description:** Slides on Biodiversity and Conservation V2 (Class 12).
+*   **Path:** `12/Slides/Unit_5_Chapter_2_Ecosystem_slides.html`
+    *   **Description:** Slides on Ecosystem (Class 12).
+*   **Path:** `12/Slides/Unit_5_Chapter_1_Organisms_and_Populations_slides.html`
+    *   **Description:** Slides on Organisms and Populations (Class 12).
+*   **Path:** `12/Slides/Unit_4_Chapter_2_Biotechnology_Applications_slides.html`
+    *   **Description:** Slides on Biotechnology Applications (Class 12).
+*   **Path:** `12/Slides/Unit_4_Chapter_1_Biotechnology_Principles_and_Processes_slides.html`
+    *   **Description:** Slides on Biotechnology Principles and Processes (Class 12).
+*   **Path:** `12/Slides/Unit_3_Chapter_2_Microbes_in_Human_Welfare_slides.html`
+    *   **Description:** Slides on Microbes in Human Welfare (Class 12).
+*   **Path:** `12/Slides/Unit_3_Chapter_1_Human_Health_and_Diseases_slides.html`
+    *   **Description:** Slides on Human Health and Diseases (Class 12).
+*   **Path:** `12/Slides/Unit_2_Chapter_3_Evolution_slides.html`
+    *   **Description:** Slides on Evolution (Class 12).
+*   **Path:** `12/Slides/Unit_2_Chapter_2_Molecular_Basis_of_Inheritance_slides.html`
+    *   **Description:** Slides on Molecular Basis of Inheritance (Class 12).
+*   **Path:** `12/Slides/Unit_2_Chapter_1_Principles_of_Inheritance_and_Variation_slides.html`
+    *   **Description:** Slides on Principles of Inheritance and Variation (Class 12).
+*   **Path:** `12/Slides/Unit_1_Chapter_3_Reproductive_Health_slides.html`
+    *   **Description:** Slides on Reproductive Health (Class 12).
+*   **Path:** `12/Slides/Unit_1_Chapter_2_Human_Reproduction_slides.html`
+    *   **Description:** Slides on Human Reproduction (Class 12).
+*   **Path:** `12/Slides/Unit_1_Chapter_1_Sexual_Reproduction_in_Flowering_Plants_slides.html`
+    *   **Description:** Slides on Sexual Reproduction in Flowering Plants (Class 12).
+
 ## File Type Statistics
 
 | File Type | Count |
-|---|---|
-| .md | 426 |
+|---|
+| .md | 427 |
+| .html | 122 |
+
