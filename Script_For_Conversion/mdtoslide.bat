@@ -11,13 +11,13 @@ for %%f in (*.md) do (
     echo ----------------------------------------
 
     :: HTML
-    npx @marp-team/marp-cli@latest "%%f" --html -o "html/%%~nf.html"
+    marp "%%f" --html -o "html/%%~nf.html"
 
     :: PDF
-    npx @marp-team/marp-cli@latest "%%f" --pdf -o "pdf/%%~nf.pdf"
+    marp "%%f" --pdf -o "pdf/%%~nf.pdf"
 
     :: PPTX
-    npx @marp-team/marp-cli@latest "%%f" --pptx -o "pptx/%%~nf.pptx"
+    marp "%%f" --pptx -o "pptx/%%~nf.pptx"
 
     echo Finished %%f
     echo.
