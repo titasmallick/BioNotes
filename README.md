@@ -153,6 +153,11 @@ Browse the folders by class level (e.g., `5/`, `6/`, `10/`, `11/`, `12/`) to fin
 
 You can view these notes online at: [https://bionotes-liard.vercel.app/](https://bionotes-liard.vercel.app/)
 
+Download with all files: [Google Drive](https://drive.google.com/drive/folders/1YTkPeSIzSyCS904trMB9odnqb2gzbcX5?usp=sharing)
+
+View Slides: [BioNotes Slides](https://bionotes-slides.netlify.app/)
+
+
 ---
 
 ## 👥 Ideal For
