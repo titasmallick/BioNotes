@@ -1,0 +1,14 @@
+# Ignore HTML files
+*.html
+
+# Ignore PDF files
+*.pdf
+
+# Ignore PowerPoint files
+*.pptx
+
+# Ignore Word files
+*.docx
+
+#Ignore Batch files
+*.bat
