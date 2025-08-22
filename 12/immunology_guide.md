@@ -48,6 +48,206 @@ The immune system is your body's sophisticated defense network, designed to prot
 - Humoral immunity (antibodies from B cells)
 - Cell-mediated immunity (T cells)
 
+
+## Overview of Adaptive Immunity
+
+Adaptive immunity consists of two main branches:
+1. **Cell-Mediated Immunity (CMI)** - Direct cellular responses
+2. **Humoral Immunity** - Antibody-mediated responses
+
+Both work together to provide specific, long-lasting protection against pathogens.
+
+---
+
+## Cell-Mediated Immunity (CMI)
+
+### Definition
+Cell-mediated immunity involves direct cellular responses against antigens, primarily mediated by T lymphocytes. It does not involve antibodies but relies on cellular interactions to eliminate threats.
+
+### Key Components
+
+#### 1. T Helper Cells (CD4+ T cells)
+- **Location**: Secondary lymphoid organs, tissues
+- **Function**: Coordinate immune responses
+- **Subtypes**:
+  - **Th1 cells**: Activate macrophages, promote cellular immunity
+  - **Th2 cells**: Help B cells, promote humoral immunity
+  - **Th17 cells**: Recruit neutrophils, fight extracellular bacteria
+  - **Tfh cells**: Help B cells in germinal centers
+
+#### 2. Cytotoxic T Lymphocytes (CD8+ T cells)
+- **Location**: Circulate in blood and lymph, migrate to tissues
+- **Function**: Direct killing of infected, cancerous, or foreign cells
+- **Mechanism**: Release perforin and granzymes, induce apoptosis
+
+#### 3. Regulatory T Cells (Tregs)
+- **Location**: Throughout the body
+- **Function**: Suppress excessive immune responses
+- **Importance**: Prevent autoimmunity, maintain tolerance
+
+#### 4. Memory T Cells
+- **Location**: Lymphoid tissues and circulation
+- **Function**: Rapid response upon re-exposure to antigens
+- **Types**: Central memory and effector memory T cells
+
+#### 5. Antigen-Presenting Cells (APCs)
+- **Dendritic Cells**: Primary activators of naive T cells
+- **Macrophages**: Process and present antigens, execute effector functions
+- **B Cells**: Present antigens to T helper cells
+
+### Roles and Functions
+
+1. **Intracellular Pathogen Elimination**: Targets viruses, some bacteria, parasites inside cells
+2. **Tumor Surveillance**: Recognizes and eliminates cancerous cells
+3. **Transplant Rejection**: Recognizes foreign tissue as non-self
+4. **Delayed-Type Hypersensitivity**: Inflammatory responses to persistent antigens
+5. **Immune Memory**: Long-term protection through memory T cells
+
+### Mechanism of Action
+
+1. **Antigen Recognition**: T cells recognize processed antigens presented on MHC molecules
+2. **Activation**: Requires two signals - antigen recognition and co-stimulation
+3. **Clonal Expansion**: Activated T cells proliferate rapidly
+4. **Differentiation**: Develop into effector cells with specific functions
+5. **Effector Phase**: Execute immune functions (killing, cytokine production)
+6. **Memory Formation**: Some cells become long-lived memory cells
+
+---
+
+## Humoral Immunity
+
+### Definition
+Humoral immunity involves the production of antibodies by B lymphocytes that circulate in body fluids (humors) to neutralize extracellular pathogens and toxins.
+
+### Key Components
+
+#### 1. B Lymphocytes
+- **Location**: Bone marrow, spleen, lymph nodes, blood
+- **Function**: Produce and secrete antibodies
+- **Development**: Mature in bone marrow
+
+#### 2. Plasma Cells
+- **Location**: Bone marrow, lymphoid tissues
+- **Function**: Antibody-secreting factories
+- **Lifespan**: Short-lived (days to weeks)
+
+#### 3. Memory B Cells
+- **Location**: Secondary lymphoid organs, circulation
+- **Function**: Rapid antibody production upon re-exposure
+- **Lifespan**: Long-lived (years to lifetime)
+
+#### 4. Antibodies (Immunoglobulins)
+- **IgG**: Most abundant in blood, crosses placenta
+- **IgM**: First antibody produced, pentameric structure
+- **IgA**: Secretory immunity (mucous membranes)
+- **IgE**: Allergic reactions, parasitic infections
+- **IgD**: B cell receptor, unknown circulating function
+
+#### 5. Complement System
+- **Function**: Enhances antibody effectiveness
+- **Components**: C1-C9 proteins
+- **Actions**: Cell lysis, opsonization, inflammation
+
+### Roles and Functions
+
+1. **Neutralization**: Blocks pathogen binding to host cells
+2. **Opsonization**: Marks pathogens for destruction by phagocytes
+3. **Complement Activation**: Triggers cascade leading to pathogen lysis
+4. **Agglutination**: Clumps pathogens for easier removal
+5. **Mucosal Protection**: IgA protects body surfaces
+6. **Passive Immunity**: Maternal antibodies protect newborns
+
+### Mechanism of Action
+
+1. **Antigen Recognition**: B cells recognize native antigens via BCR
+2. **Helper T Cell Interaction**: T-dependent activation requires Th cell help
+3. **Activation and Proliferation**: B cells expand clonally
+4. **Class Switching**: Change antibody type while maintaining specificity
+5. **Somatic Hypermutation**: Increases antibody affinity
+6. **Differentiation**: Become plasma cells or memory B cells
+7. **Antibody Secretion**: Plasma cells produce specific antibodies
+
+---
+
+## Detailed Comparison
+
+| Aspect | Cell-Mediated Immunity | Humoral Immunity |
+|--------|------------------------|------------------|
+| **Primary Cells** | T lymphocytes | B lymphocytes |
+| **Effector Molecules** | Cytokines, cytotoxic granules | Antibodies |
+| **Target Location** | Intracellular pathogens | Extracellular pathogens |
+| **Recognition Method** | Processed antigens on MHC | Native antigens directly |
+| **MHC Requirement** | Essential (MHC I & II) | Not required for recognition |
+| **Antigen Processing** | Required | Not required |
+| **Memory Duration** | Long-term (years) | Long-term (years) |
+| **Speed of Response** | Slower (days) | Faster (hours to days) |
+| **Transfer Method** | Cannot be transferred | Transferable via serum |
+| **Main Functions** | Kill infected cells, activate macrophages | Neutralize toxins, opsonize pathogens |
+
+## Key Differences in Detail
+
+### 1. Antigen Recognition
+- **CMI**: Recognizes peptide fragments presented on MHC molecules
+- **Humoral**: Recognizes conformational epitopes on native antigens
+
+### 2. Pathogen Targets
+- **CMI**: Viruses, intracellular bacteria (TB, Listeria), fungi, tumors, transplanted tissues
+- **Humoral**: Bacteria, toxins, viruses (before cell entry), parasites
+
+### 3. Effector Mechanisms
+- **CMI**: 
+  - Cytotoxic killing (perforin/granzyme)
+  - Cytokine production (IFN-γ, TNF-α)
+  - Macrophage activation
+- **Humoral**:
+  - Neutralization
+  - Complement activation
+  - Opsonization
+  - Antibody-dependent cellular cytotoxicity
+
+### 4. Anatomical Distribution
+- **CMI**: Tissues, lymphoid organs, sites of infection
+- **Humoral**: Blood, lymph, secretions, extracellular spaces
+
+### 5. Development Timeline
+- **CMI**: Develops over 3-7 days, peaks at 1-2 weeks
+- **Humoral**: Primary response 7-10 days, secondary response 2-3 days
+
+---
+
+## Interaction and Cooperation
+
+### Synergistic Effects
+1. **Helper T cells** activate both cytotoxic T cells and B cells
+2. **Antibodies** can enhance T cell responses through opsonization
+3. **Complement** activated by antibodies can enhance T cell activation
+4. **Memory responses** involve both T and B memory cells
+
+### Cross-Regulation
+1. **Th1/Th2 balance** determines CMI vs humoral dominance
+2. **Regulatory T cells** control both responses
+3. **Cytokine networks** coordinate both arms
+
+---
+
+## Clinical Relevance
+
+### Immunodeficiencies
+- **CMI defects**: Increased susceptibility to viral, fungal infections (SCID, DiGeorge syndrome)
+- **Humoral defects**: Increased bacterial infections (agammaglobulinemia, common variable immunodeficiency)
+
+### Vaccination Strategies
+- **Live attenuated vaccines**: Stimulate strong CMI
+- **Inactivated/subunit vaccines**: Primarily humoral responses
+- **Adjuvants**: Enhance both responses
+
+### Therapeutic Applications
+- **Monoclonal antibodies**: Harness humoral mechanisms
+- **CAR-T therapy**: Engineered cell-mediated responses
+- **Immunosuppression**: Target specific arms for transplantation
+
+---
+
 ---
 
 ## 3. Immune System Cells
@@ -2615,6 +2815,316 @@ Immune system's role in cancer prevention and treatment.
 - **Checkpoint Inhibitors**: Remove brakes on T cell responses
 - **CAR-T Cells**: Engineer T cells to recognize cancer
 - **Cancer Vaccines**: Stimulate immune responses against tumors
+
+## Overview of Immune System Dysfunction
+
+The immune system can malfunction in two primary ways that result in disease:
+1. **Hypersensitivity reactions** (allergies) - overreaction to harmless substances
+2. **Autoimmune disorders** - immune attack against self-tissues
+
+Both represent failures of immune tolerance and regulation, but through different mechanisms.
+
+## ALLERGIC REACTIONS (HYPERSENSITIVITY)
+
+### Gell and Coombs Classification of Hypersensitivity
+
+#### Type I Hypersensitivity (Immediate/IgE-mediated)
+**Mechanism:**
+- **Sensitization phase**: First exposure to allergen leads to IgE production by plasma cells
+- IgE antibodies bind to high-affinity FcεRI receptors on mast cells and basophils
+- **Re-exposure phase**: Allergen cross-links IgE on cell surface
+- Rapid degranulation releases preformed mediators (histamine, tryptase, heparin)
+- Secondary mediators synthesized: leukotrienes, prostaglandins, cytokines
+
+**Clinical manifestations:**
+- Urticaria (hives)
+- Allergic rhinitis
+- Asthma
+- Food allergies
+- Anaphylaxis (systemic reaction)
+
+**Timeline**: Minutes to hours
+
+#### Type II Hypersensitivity (Antibody-dependent cellular cytotoxicity)
+**Mechanism:**
+- IgG or IgM antibodies bind to cell surface antigens
+- Complement activation leads to cell lysis
+- Antibody-dependent cellular cytotoxicity (ADCC) by NK cells
+- Opsonization enhances phagocytosis
+
+**Examples:**
+- Hemolytic transfusion reactions
+- Hemolytic disease of newborn (Rh incompatibility)
+- Drug-induced hemolytic anemia
+- Goodpasture syndrome
+
+**Timeline**: Hours
+
+#### Type III Hypersensitivity (Immune complex-mediated)
+**Mechanism:**
+- Formation of antigen-antibody immune complexes
+- Deposition in tissues (especially blood vessels, kidneys, joints)
+- Complement activation
+- Neutrophil recruitment and tissue damage
+- Release of lysosomal enzymes
+
+**Examples:**
+- Serum sickness
+- Systemic lupus erythematosus (SLE)
+- Post-infectious glomerulonephritis
+- Arthus reaction
+
+**Timeline**: Hours to days
+
+#### Type IV Hypersensitivity (Delayed-type/T cell-mediated)
+**Mechanism:**
+- Th1 cells recognize antigen presented by APCs
+- Release of cytokines (IFN-γ, TNF-α, IL-2)
+- Macrophage activation and recruitment
+- Chronic inflammation and tissue damage
+- No antibody involvement
+
+**Examples:**
+- Contact dermatitis (poison ivy)
+- Tuberculin skin test
+- Transplant rejection
+- Some drug reactions
+
+**Timeline**: 24-72 hours
+
+### Allergic March and Atopic Diseases
+
+**Atopic Triad:**
+1. Atopic dermatitis (eczema)
+2. Allergic rhinitis
+3. Asthma
+
+**Genetic factors:**
+- HLA associations
+- Polymorphisms in cytokine genes (IL-4, IL-13, IL-5)
+- STAT6 pathway alterations
+- Filaggrin mutations (barrier function)
+
+**Th2 bias**: Predominant Th2 response with IL-4, IL-5, IL-13 production leading to IgE synthesis and eosinophilia
+
+## AUTOIMMUNE DISORDERS
+
+### Mechanisms of Autoimmunity
+
+#### Loss of Self-Tolerance
+**Central tolerance** (thymus/bone marrow):
+- Negative selection eliminates highly self-reactive T and B cells
+- Defects lead to escape of autoreactive cells
+
+**Peripheral tolerance**:
+- Regulatory T cells (Tregs) suppress autoreactive responses
+- Anergy (functional unresponsiveness)
+- Ignorance (sequestered antigens)
+- Deletion of activated self-reactive cells
+
+#### Molecular Mimicry
+Cross-reactivity between pathogen and self-antigens
+- Examples: Rheumatic fever (Streptococcus and cardiac myosin)
+- Multiple sclerosis (viral proteins and myelin basic protein)
+
+#### Epitope Spreading
+- Initial immune response against one epitope
+- Tissue damage releases new self-antigens
+- Expansion of autoreactive response to additional epitopes
+
+### Classification of Autoimmune Diseases
+
+#### Organ-Specific Autoimmune Diseases
+
+**Type 1 Diabetes Mellitus:**
+- Target: Pancreatic β-cells
+- Mechanism: T cell-mediated destruction
+- Antibodies: Anti-GAD, anti-IA2, anti-ZnT8
+- HLA association: DR3/DR4
+
+**Hashimoto's Thyroiditis:**
+- Target: Thyroid follicular cells
+- Antibodies: Anti-TPO, anti-thyroglobulin
+- Mechanism: Th1-mediated inflammation with antibody involvement
+
+**Graves' Disease:**
+- Target: TSH receptor
+- Mechanism: Stimulating antibodies (TSI)
+- Results in hyperthyroidism
+
+**Multiple Sclerosis:**
+- Target: CNS myelin
+- Mechanism: Th1/Th17-mediated demyelination
+- Antibodies: Anti-MOG, anti-aquaporin-4 (in related conditions)
+
+#### Systemic Autoimmune Diseases
+
+**Systemic Lupus Erythematosus (SLE):**
+- Multiple organ involvement
+- Antibodies: ANA, anti-dsDNA, anti-Sm, anti-phospholipid
+- Mechanism: Type II and III hypersensitivity
+- Complement deficiency association
+
+**Rheumatoid Arthritis:**
+- Target: Synovial joints
+- Antibodies: Rheumatoid factor (RF), anti-CCP
+- HLA-DR4 association
+- Th17 involvement
+
+**Sjögren's Syndrome:**
+- Target: Exocrine glands
+- Antibodies: Anti-Ro/SSA, anti-La/SSB
+
+### Mechanisms of Tissue Damage in Autoimmunity
+
+#### T Cell-Mediated Damage
+- **Th1 cells**: IFN-γ production, macrophage activation
+- **Th17 cells**: IL-17 production, neutrophil recruitment
+- **CD8+ T cells**: Direct cytotoxicity
+- **Regulatory T cell dysfunction**: Loss of suppression
+
+#### Antibody-Mediated Damage
+- **Complement fixation**: Classical pathway activation
+- **ADCC**: NK cell and macrophage-mediated cytotoxicity
+- **Immune complex formation**: Tissue deposition and inflammation
+
+## IMMUNOLOGICAL CONCEPTS AND RELATED DISORDERS
+
+### Immunodeficiencies and Secondary Effects
+
+#### Primary Immunodeficiencies
+- **SCID**: Severe combined immunodeficiency
+- **DiGeorge syndrome**: T cell deficiency
+- **X-linked agammaglobulinemia**: B cell/antibody deficiency
+- **Chronic granulomatous disease**: Phagocyte dysfunction
+
+**Relationship to autoimmunity**: Paradoxically, some immunodeficiencies increase autoimmune risk due to:
+- Impaired negative selection
+- Chronic infections triggering molecular mimicry
+- Defective Treg function
+
+#### Secondary Immunodeficiencies
+- HIV/AIDS
+- Malnutrition
+- Aging (immunosenescence)
+- Immunosuppressive drugs
+
+### Complement System and Disease
+
+#### Complement Deficiencies
+- **C1q, C2, C4 deficiency**: Strong SLE association
+- **C3 deficiency**: Recurrent infections and immune complex disease
+- **Terminal complement deficiency (C5-C9)**: Neisseria infections
+
+#### Complement Regulation Disorders
+- **Hereditary angioedema**: C1 esterase inhibitor deficiency
+- **Paroxysmal nocturnal hemoglobinuria**: CD55/CD46 deficiency
+
+### Cytokine Networks in Immune Disorders
+
+#### Pro-inflammatory Cytokines
+- **TNF-α**: Key target in RA, Crohn's disease
+- **IL-1β**: Inflammasome activation, autoinflammatory diseases
+- **IL-6**: Acute phase response, Th17 differentiation
+- **IL-17**: Neutrophil recruitment, tissue inflammation
+
+#### Regulatory Cytokines
+- **IL-10**: Anti-inflammatory, Treg function
+- **TGF-β**: Tissue repair, Treg differentiation
+- **IL-35**: Treg-derived suppressive cytokine
+
+#### Therapeutic Implications
+- **Biologics**: Anti-TNF-α (infliximab, adalimumab)
+- **Interleukin inhibitors**: Anti-IL-6 (tocilizumab), anti-IL-17 (secukinumab)
+- **JAK inhibitors**: Blocking cytokine signaling pathways
+
+### Molecular Mechanisms of Immune Tolerance
+
+#### Central Tolerance Mechanisms
+- **AIRE protein**: Promotes expression of tissue-specific antigens in thymus
+- **Negative selection**: High-affinity TCR interactions lead to apoptosis
+- **Receptor editing**: B cells modify BCR specificity
+
+#### Peripheral Tolerance Mechanisms
+- **Regulatory T cells**: 
+  - Natural Tregs (nTregs): Thymus-derived, FoxP3+
+  - Induced Tregs (iTregs): Peripherally induced
+  - Tr1 cells: IL-10 producing
+- **Immune privilege sites**: Eye, brain, testis
+- **Oral tolerance**: Gut-associated immune responses
+
+### Genetic Factors in Immune Disorders
+
+#### HLA Associations
+- **Allergies**: HLA-DQ2/DQ8 in food allergies
+- **Autoimmunity**: Strong HLA-DR/DQ associations
+- **Mechanism**: Antigen presentation bias
+
+#### Non-HLA Genes
+- **PTPN22**: Protein tyrosine phosphatase, multiple autoimmune diseases
+- **CTLA-4**: T cell inhibitory receptor
+- **FoxP3**: Treg transcription factor
+- **IL2RA**: IL-2 receptor, Treg function
+
+### Epigenetic Factors
+- **DNA methylation**: Gene expression regulation
+- **Histone modifications**: Chromatin remodeling
+- **microRNAs**: Post-transcriptional regulation
+- **Environmental influences**: Diet, infections, stress
+
+## THERAPEUTIC APPROACHES
+
+### Immunosuppressive Therapies
+- **Corticosteroids**: Broad anti-inflammatory effects
+- **Methotrexate**: Folate antagonist, anti-proliferative
+- **Cyclosporine**: Calcineurin inhibitor, T cell suppression
+- **Mycophenolate**: Purine synthesis inhibition
+
+### Targeted Biologics
+- **Monoclonal antibodies**: Specific protein targeting
+- **Fusion proteins**: Receptor antagonists
+- **Small molecule inhibitors**: Intracellular pathway blocking
+
+### Emerging Therapies
+- **CAR-T cells**: Chimeric antigen receptor T cells for autoimmunity
+- **Tolerogenic vaccines**: Inducing antigen-specific tolerance
+- **Microbiome modulation**: Gut bacteria and immune regulation
+- **Precision medicine**: Genetic-based treatment selection
+
+## CLINICAL CORRELATIONS
+
+### Allergy Testing
+- **Skin prick tests**: Type I hypersensitivity
+- **Serum-specific IgE**: RAST/ImmunoCAP
+- **Patch testing**: Type IV hypersensitivity
+- **Challenge tests**: Controlled exposure
+
+### Autoimmune Disease Diagnosis
+- **Autoantibody panels**: Disease-specific markers
+- **HLA typing**: Genetic susceptibility
+- **Inflammatory markers**: ESR, CRP
+- **Tissue biopsy**: Histopathological confirmation
+
+### Monitoring and Prognosis
+- **Disease activity scores**: Standardized assessments
+- **Biomarkers**: Treatment response prediction
+- **Complications**: Organ damage assessment
+- **Quality of life measures**: Functional impact
+
+## FUTURE DIRECTIONS
+
+### Research Areas
+- **Single-cell immunology**: Cellular heterogeneity analysis
+- **Systems immunology**: Network-based approaches
+- **Immunometabolism**: Metabolic regulation of immune function
+- **Tissue-resident immunity**: Local immune responses
+
+### Technological Advances
+- **CRISPR gene editing**: Genetic modification of immune cells
+- **Artificial intelligence**: Pattern recognition in immune data
+- **Nanotechnology**: Targeted drug delivery
+- **Organoids**: Disease modeling systems
+
 
 ---
 
