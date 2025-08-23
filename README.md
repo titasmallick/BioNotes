@@ -166,6 +166,8 @@ BitBucket Mirror: [BitBucket](https://bitbucket.org/cgtitas/bionotes/src/main/)
 
 Internet Archive: [Archive](https://archive.org/details/auto-notes)
 
+Zenodo: [DOI:10.5281/zenodo.16932122 as of 23/8/2025](https://zenodo.org/records/16932122)
+
 ---
 
 ## 👥 Ideal For
