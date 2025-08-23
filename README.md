@@ -164,6 +164,8 @@ SourceForge Mirror: [SourceForge](https://sourceforge.net/projects/bionotes/)
 
 BitBucket Mirror: [BitBucket](https://bitbucket.org/cgtitas/bionotes/src/main/)
 
+Internet Archive: [Archive](https://archive.org/details/auto-notes)
+
 ---
 
 ## 👥 Ideal For
