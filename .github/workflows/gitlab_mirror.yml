@@ -15,6 +15,6 @@ jobs:
       - name: GitLab Sync
         uses: action-pack/gitlab-sync@v3.03
         with:
-          url: https://gitlab.com/titasmallick/BioNotes.git
+          url: https://gitlab.com/titasmallick/BioNotes
           username: titasmallick
           token: ${{ secrets.GITLAB_TOKEN }}
