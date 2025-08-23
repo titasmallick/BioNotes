@@ -162,6 +162,8 @@ GitLab Mirror: [GitLab](https://gitlab.com/titasmallick/BioNotes.git)
 
 SourceForge Mirror: [SourceForge](https://sourceforge.net/projects/bionotes/)
 
+BitBucket Mirror: [BitBucket](https://bitbucket.org/cgtitas/bionotes/src/main/)
+
 ---
 
 ## 👥 Ideal For
