@@ -157,6 +157,10 @@ Download with all files: [Google Drive](https://drive.google.com/drive/folders/1
 
 View Slides: [BioNotes Slides](https://bionotes-slides.netlify.app/)
 
+### Mirrors:
+GitLab Mirror: [GitLab](https://gitlab.com/titasmallick/BioNotes.git)
+
+SourceForge Mirror: [SourceForge](https://sourceforge.net/projects/bionotes/)
 
 ---
 
