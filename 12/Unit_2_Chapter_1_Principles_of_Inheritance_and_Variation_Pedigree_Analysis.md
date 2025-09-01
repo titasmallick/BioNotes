@@ -1,4 +1,4 @@
-﻿Pedigree Cheat Sheet
+Pedigree Cheat Sheet
 
 Titas Mallick 
 
