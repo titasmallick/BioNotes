@@ -12,3 +12,7 @@
 
 #Ignore Batch files
 *.bat
+
+# Ignore Obsidian config and workspace
+.obsidian/
+*.obsidian-workspace
