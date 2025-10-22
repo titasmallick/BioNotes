@@ -13,7 +13,7 @@ Titas holds a Master of Science in Botany from the prestigious University of Cal
 
 ### Professional Journey
 
-Currently serving as a Biology teacher at Pearls of God School (ICSE, ISC) since 2022, Titas has been shaping young minds and fostering scientific curiosity. He also works as a Biology faculty at the educational institute Eugenics Erudite since 2020, where he specializes in teaching students from Grade VI to XII, as well as undergraduate Botany courses for both Pass and Honors programs.
+Currently serving as a Biology teacher at Pearls of God School (ICSE, ISC) since 2022, and as Academic and Administrative In-charge at Eklavya Institution (a CBSE school) since 2025, Titas has been shaping young minds and fostering scientific curiosity. He also works as a Biology faculty at the educational institute Eugenics Erudite since 2020, where he specializes in teaching students from Grade VI to XII, as well as undergraduate Botany courses for both Pass and Honors programs.
 
 His extensive experience in private tuition has given him deep insights into various examination patterns and syllabi, making him particularly effective at helping students achieve their academic goals.
 

@@ -2,7 +2,7 @@
 
 Welcome to **BioNotes**, your one-stop, syllabus-friendly repository of biology notes, diagrams, and study suggestions for students of **Class 5 to 12**! Whether you're dissecting your first leaf 🍃 or diving into DNA 🧬, this repo is designed to make biology *fun, clear, and exam-ready*.
 
-> **Note:** The content in this repository is aligned with the **ICSE, ISE, and CISCE** syllabus.
+> **Note:** The content in this repository is aligned with the **ICSE, ISE, CBSE and CISCE** syllabus.
 
 ---
 
