@@ -622,18 +622,17 @@ A **synapse** is a minute gap/junction between the axon terminal of one neuron a
 
 ### (v) Vanishing Greenery — Urban Crisis
 
-**Problems caused by rapid urbanization and loss of urban greenery:**
+**(a) One significant problem caused by the reduction in urban greenery:**
 
-1. **Global Warming:** Reduction in plants increases atmospheric CO2, intensifying the greenhouse effect
-2. **Loss of Biodiversity:** Destruction of natural habitats displaces or eliminates local flora and fauna
-3. **Soil Erosion:** Fewer tree roots to anchor soil → increased erosion by wind and rain
-4. **Air Pollution:** Fewer trees to filter dust particles and gaseous pollutants, and less oxygen production
+The reduction in urban greenery leads to an increase in atmospheric CO2 levels, which intensifies the greenhouse effect and contributes to **global warming**. It also causes the **Urban Heat Island effect**, where city temperatures rise significantly due to the lack of shade and the loss of transpiration-led cooling by plants.
 
-**Role of citizens in protecting urban greenery:**
+**(b) How green plants contribute to improving air quality:**
 
-1. Participate in afforestation drives — plant trees in parks, roadsides, and vacant lots
-2. Report and prevent illegal felling of trees in your neighbourhood
-3. Spread awareness about the importance of green belts, parks, and urban forests
+Green plants improve air quality through **photosynthesis**, absorbing carbon dioxide and releasing oxygen. They also act as **natural filters** by trapping suspended particulate matter (dust) on their leaf surfaces and absorbing certain harmful gases such as sulfur dioxide.
+
+**(c) Role of a citizen in protecting urban greenery:**
+
+As a citizen, one can participate in **Vanamahotsava** or local afforestation drives to plant more trees. One can also advocate for the preservation of local parks, prevent the illegal felling of trees, and practise **kitchen gardening or rooftop gardening** to increase green cover in residential areas.
 
 ---
 
