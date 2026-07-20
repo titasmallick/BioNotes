@@ -268,6 +268,12 @@ Seeking an opportunity to use my knowledge and talent to educate children and pr
 
 ---
 
+## 🔌 Remote MCP
+
+A custom remote MCP is made here: [https://bn-vector-remote-mcp.onrender.com/sse](https://bn-vector-remote-mcp.onrender.com/sse). It requires an "Api Key". Please ask for the credentials if needed.
+
+---
+
 ## 📞 Contact
 
 Have questions or feedback?  
